@@ -81,4 +81,9 @@ This project is open-source and available to everyone.
 
 ---
 
-*This README was generated with the help of Gemini.*
+## 👤 Author
+
+**[Muhammad Zeeshan Islam](https://github.com/zeeshan020dev)**  
+Co-Founder – Unicodrex | Technical Associate – Skill Sprint
+
+[![GitHub](https://img.shields.io/badge/GitHub-zeeshan020dev-black?logo=github)](https://github.com/zeeshan020dev)
