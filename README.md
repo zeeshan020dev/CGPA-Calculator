@@ -77,7 +77,7 @@ Contributions are welcome! If you want to add calculators for more semesters, im
 
 ## 📄 License
 
-This project is open-source and available to everyone.
+This project is open-source and available to everyone
 
 ---
 
